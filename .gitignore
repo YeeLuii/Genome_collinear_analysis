@@ -1,0 +1,10 @@
+data/
+work/
+results/
+*.blast
+*.dmnd
+*.pep.full
+*.idx
+*.fai
+*.txt
+*.xls
